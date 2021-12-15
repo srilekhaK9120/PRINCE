@@ -69,4 +69,4 @@
 
 **node 16.x or greater**
 
-- run <code>npm init</code> in <code>Software Application @ Crypto/frontend/crypto_cs553</code>
+- run <code>npm install</code> in <code>Software Application @ Crypto/frontend/crypto_cs553</code>
