@@ -1,7 +1,7 @@
 ## **Prince Cipher**
 
 ![price cipher core](core.png)
-#### **Github repository link: https://github.com/srilekhaK9120/PRINCE.git**
+#### **Github repository link: https://github.com/srilekhaK9120/Prince.git**
 ### **Team Members - Illuminati**
 
 1. **Chodipilli Yadava Kishore, Id No: 11940310**
